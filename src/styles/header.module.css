@@ -1,0 +1,13 @@
+.main{
+    width: 85%;
+    display: flex;
+    font-size: 22px;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.navBar{
+    display: flex;
+    gap: 60px;
+}
